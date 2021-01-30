@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Vervito United Website where we expose the New World Order
 
 You can use the [editor on GitHub](https://github.com/VervitoUnited/vervitounited.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

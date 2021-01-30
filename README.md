@@ -1,6 +1,6 @@
-## Welcome to Vervito United Website where we expose the New World Order
+## Welcome to Vervito United Website
 
-You can use the [editor on GitHub](https://github.com/VervitoUnited/vervitounited.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the website where i will be exposing the New World Order
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
